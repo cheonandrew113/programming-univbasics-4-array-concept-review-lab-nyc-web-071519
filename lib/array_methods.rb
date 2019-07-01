@@ -1,6 +1,6 @@
 #takes in an array and a value and returns the index of that value'
 def find_element_index(array, value_to_find)
-  
+  if array = value
 end
 
 
