@@ -1,6 +1,16 @@
 #takes in an array and a value and returns the index of that value'
 def find_element_index(array, value_to_find)
-  while array 
+  
+  i = 0
+  while i < array.length
+  if array = value_to_find
+    return array.index
+  i += 0
+  else
+    return nil
+  end
+    
+  
 end
 
 
