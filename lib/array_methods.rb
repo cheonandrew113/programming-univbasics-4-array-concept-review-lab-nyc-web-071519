@@ -6,10 +6,10 @@ end
 
 #'takes in an array of integers and returns the highest value integer'
 def find_max_value(array)
-  return find_max_value.max
+  return array.max
 end
 
 #takes in an array of integers and returns the lowest value integer
 def find_min_value(array)
-  return find_min_value.min
+  return array.min
 end
